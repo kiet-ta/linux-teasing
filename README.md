@@ -28,7 +28,7 @@
 ### Linux / macOS
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/linux-teasing.git
+git clone https://github.com/kiet-ta/linux-teasing.git
 cd linux-teasing
 
 # Install
@@ -39,7 +39,7 @@ chmod +x install.sh
 ### Windows
 ```powershell
 # Clone the repository
-git clone https://github.com/your-username/linux-teasing.git
+git clone https://github.com/kiet-ta/linux-teasing.git
 cd linux-teasing
 
 # Install
