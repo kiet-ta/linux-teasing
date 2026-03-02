@@ -1,1 +1,4 @@
 /target
+
+# Local mock file for testing adjtime detection (debug builds only)
+mock_adjtime
